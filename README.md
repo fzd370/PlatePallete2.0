@@ -14,7 +14,6 @@ A web application for finding and saving your favorite recipes.
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## About
 
@@ -95,9 +94,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - The Recipe API - [recipe-api.com](https://forkify-api.herokuapp.com/v2)
 - The Spoonacular API - [spoonacular.com](https://spoonacular.com/food-api)
 - [Font Awesome](https://fontawesome.com) - Icons and fonts
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact me at andrewtsegaye7@gmail.com.
-
-Feel free to customize and update the content based on your specific project details. Don't forget to include relevant images, icons, and the necessary license file (e.g. LICENSE)

@@ -15,7 +15,7 @@ A web application for finding and saving your favorite recipes.
 
 ## About
 
-Forkify Recipe App is a powerful and user-friendly web application that allows users to search for recipes from various sources, save their favorite recipes, and create personalized shopping lists. It simplifies the process of finding and organizing recipes, making it convenient for users to plan their meals and manage their ingredients.
+PlatePalette Recipe App is a powerful and user-friendly web application that allows users to search for recipes from various sources, save their favorite recipes, and create personalized shopping lists. It simplifies the process of finding and organizing recipes, making it convenient for users to plan their meals and manage their ingredients.
 
 ## Features
 
@@ -30,11 +30,11 @@ Forkify Recipe App is a powerful and user-friendly web application that allows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Andrew-Tsegaye/Forkify_Recipe_App.git
+   git clone https://github.com/fzd370/PlatePalette.git
    ```
 2. Navigate to the project directory:
    ```bash
-     cd Forkify_Recipe_App
+     cd PlatePalette
    ```
 3. Install the dependencies:
    ```bash
@@ -74,7 +74,7 @@ Forkify Recipe App is a powerful and user-friendly web application that allows u
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to Forkify Recipe App, please follow these steps:
+Contributions are welcome! If you would like to contribute to PlatePalette Recipe App, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.

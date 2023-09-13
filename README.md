@@ -1,6 +1,4 @@
-# Forkify Recipe App
-
-![Forkify Logo](https://i.imgur.com/4aXQmYA.png)
+# PlatePalette Recipe App
 
 A web application for finding and saving your favorite recipes.
 

@@ -15,9 +15,9 @@ import { MODAL_CLOSE_SEC } from './config.js';
 
 ///////////////////////////////////////
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
+if (module.hot) {
+  module.hot.accept();
+}
 
 const controlRecipes = async function () {
   try {

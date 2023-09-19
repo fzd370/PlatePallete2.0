@@ -22,7 +22,6 @@ PlatePalette Recipe App is a powerful and user-friendly web application that all
 - Search and browse an extensive collection of recipes.
 - View detailed recipe information, including ingredients, instructions, and serving sizes.
 - Save favorite recipes for quick access.
-- Create and manage custom shopping lists based on selected recipes.
 - Interactive and intuitive user interface.
 - Mobile-friendly design for a seamless experience on different devices.
 
@@ -58,11 +57,7 @@ PlatePalette Recipe App is a powerful and user-friendly web application that all
 
 4. To save a recipe, click the "Save Recipe" button. You can access saved recipes from the "Favorites" section.
 
-5. To create a shopping list based on a recipe, click the "Add to Shopping List" button.
-
-6. Manage your shopping list by adding or removing items as needed.
-
-7. Enjoy exploring and organizing your favorite recipes!
+5. Enjoy exploring and organizing your favorite recipes!
 
 ## Technologies Used
 

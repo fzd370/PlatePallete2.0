@@ -1,4 +1,6 @@
-# PlatePalette Recipe App
+# PlatePalette Recipe App 
+
+Live Demo - https://platepalette-shivam.netlify.app/
 
 A web application for finding and saving your favorite recipes.
 
